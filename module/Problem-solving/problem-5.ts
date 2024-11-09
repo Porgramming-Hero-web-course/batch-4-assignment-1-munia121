@@ -4,5 +4,5 @@ function getProperty(obj: any, key: string): any {
 
 
 const person = { name: "Alice", age: 30 };
-console.log(getProperty(person, "name")); 
+// console.log(getProperty(person, "name")); 
 
